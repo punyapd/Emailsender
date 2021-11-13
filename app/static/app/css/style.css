@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+   
+}
+
+.container{
+    background-color: azure;
+    height:auto;
+    width: 30%;
+    padding:2rem;
+    margin-top:10px;
+}
